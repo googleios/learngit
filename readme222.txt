@@ -8,3 +8,4 @@ ssh-keygen -t rsa -C "whyanqing@126.com"
 git clone git@github.com:googleios/learngit
 
 pull test
+pull test2
